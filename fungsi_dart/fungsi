@@ -1,0 +1,8 @@
+Pembuatan fungsi pada Dart sama seperti membuat fungsi pada bahasa C, C++, dan Java.
+Intinya, jika tidak ada nilai kembalian…
+
+…kita cukup memberikan void di depan nama fungsi.
+
+Sedangkan apabila fungsi memiliki nilai kembalian, kita harus menuliskan tipe data dari nilai yang akan dikembalikan.
+
+Mari kita coba.
